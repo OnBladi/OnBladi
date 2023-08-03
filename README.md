@@ -1,7 +1,6 @@
 <!--WELCOME BANNER-->
 <div>
   <img src=https://media.licdn.com/dms/image/D4E16AQFROgT6US1ntA/profile-displaybackgroundimage-shrink_350_1400/0/1691066477866?e=1696464000&v=beta&t=5YwgQ-SZHUVTRVjlaNKgCzBKAfsr0XIDaCbZfdZES3E>
-  <p align="center"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/onbladi/onbladi"></p>
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
