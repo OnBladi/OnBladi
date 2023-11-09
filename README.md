@@ -1,6 +1,6 @@
 <!--WELCOME BANNER-->
 <div>
-  <img src=https://media.licdn.com/dms/image/D4E16AQFROgT6US1ntA/profile-displaybackgroundimage-shrink_350_1400/0/1691066477866?e=1696464000&v=beta&t=5YwgQ-SZHUVTRVjlaNKgCzBKAfsr0XIDaCbZfdZES3E>
+  <img src=https://media.licdn.com/dms/image/D4E16AQFROgT6US1ntA/profile-displaybackgroundimage-shrink_350_1400/0/1691066478568?e=1704931200&v=beta&t=BkvcE5Mo_o_CxG8qKKst-mL388LAIOtdxOV2qY8X6U8>
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
